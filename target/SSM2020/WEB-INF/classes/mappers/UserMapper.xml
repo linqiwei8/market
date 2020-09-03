@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.market.dao.UserMapper">
+    <select id="login" parameterType="com.market.bean.User" resultType="com.market.bean.User">
+    select * from t_admin where username=#{username} and password=#{password}
+   </select>
+
+    <select id="selectByUserName" parameterType="String" resultType="com.market.bean.User">
+        select * from t_admin where username=#{username}
+    </select>
+
+    <update id="updatePassword" parameterType="com.market.bean.User">
+        update t_admin set password=#{password} where username=#{username}
+    </update>
+
+    <insert id="addUser" parameterType="com.market.bean.User">
+        insert into t_admin(username,password) values (#{username},#{password})
+    </insert>
+
+</mapper>

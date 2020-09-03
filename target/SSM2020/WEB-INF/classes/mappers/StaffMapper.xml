@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.market.dao.staffMapper">
+
+    <resultMap id="BaseResultMap" type="com.market.bean.Staff">
+        <id column="id" jdbcType="CHAR" property="id" />
+        <result column="name" jdbcType="VARCHAR" property="name" />
+        <result column="sex" jdbcType="CHAR" property="sex" />
+        <result column="salary" jdbcType="INTEGER" property="salary" />
+        <result column="tel" jdbcType="VARCHAR" property="tel" />
+        <result column="address" jdbcType="VARCHAR" property="address" />
+        <result column="position" jdbcType="VARCHAR" property="position" />
+        <result column="begindate" jdbcType="TIMESTAMP" property="begindate" />
+    </resultMap>
+
+    <select id="selectByExample" parameterType="int" resultMap="BaseResultMap">
+        select * from t_staff
+    </select>
+
+    <select id="selectCount"  resultType="java.lang.Long">
+        select count(*) from t_staff
+    </select>
+
+    <select id="selectByPrimaryKey" parameterType="int" resultType="com.market.bean.Staff">
+        select * from t_staff where id =#{id}
+    </select>
+
+    <select id="selectByName" parameterType="String" resultType="com.market.bean.Staff">
+        select * from t_staff where name like concat('%',#{name},'%')
+    </select>
+
+    <insert id="insertStaff" parameterType="com.market.bean.Staff">
+        insert into t_staff(name,tel,sex,salary,address,position,begindate) values (#{name},#{tel},#{sex},#{salary},#{address},#{position},#{begindate})
+    </insert>
+
+    <delete id="deleteByPrimaryKey" parameterType="int">
+        delete from t_staff where id=#{id}
+    </delete>
+
+    <update id="updateStaff" parameterType="com.market.bean.Staff">
+        update t_staff set name=#{name},tel=#{tel},sex=#{sex},salary=#{salary},address=#{address},position=#{position},begindate=#{begindate} where id=#{id}
+    </update>
+
+    <!--通过集合批量删除-->
+    <delete id="deletList" parameterType="list">
+        delete from t_staff where id in
+        <foreach collection="list" item="id" open="(" close=")" separator=",">
+            #{id}
+        </foreach>
+    </delete>
+
+</mapper>

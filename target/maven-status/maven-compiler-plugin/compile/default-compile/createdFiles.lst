@@ -1,0 +1,7 @@
+net\togogo\mapper\UserMapper.class
+net\togogo\controller\goPage.class
+net\togogo\controller\UserController.class
+net\togogo\service\impl\UserServiceImpl.class
+net\togogo\controller\UserManageController.class
+net\togogo\bean\User.class
+net\togogo\service\UserService.class

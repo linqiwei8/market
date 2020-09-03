@@ -1,0 +1,158 @@
+2020-07-31 09:07:17,603 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:07:22,849 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 5159 ms
+2020-07-31 09:07:25,105 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:07:27,354 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2246 ms
+2020-07-31 09:25:14,767 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:25:16,752 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1985 ms
+2020-07-31 09:27:01,034 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:27:02,611 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1577 ms
+2020-07-31 09:27:12,833 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:27:14,101 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1266 ms
+2020-07-31 09:27:56,788 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:27:58,396 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1608 ms
+2020-07-31 09:28:03,243 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:28:04,467 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1222 ms
+2020-07-31 09:31:59,317 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:32:00,974 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1657 ms
+2020-07-31 09:32:29,197 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:32:30,239 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1040 ms
+2020-07-31 09:34:26,705 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:34:28,255 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1550 ms
+2020-07-31 09:34:35,077 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:34:36,236 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1157 ms
+2020-07-31 09:41:57,729 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:41:59,327 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1598 ms
+2020-07-31 09:42:15,153 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:42:16,230 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1074 ms
+2020-07-31 09:42:57,222 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:42:58,694 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1472 ms
+2020-07-31 09:43:02,408 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:43:03,433 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1023 ms
+2020-07-31 09:45:18,897 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:45:20,452 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1539 ms
+2020-07-31 09:45:25,068 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:45:26,203 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1133 ms
+2020-07-31 09:49:53,947 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:49:55,822 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1875 ms
+2020-07-31 09:50:28,312 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:50:29,520 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1206 ms
+2020-07-31 09:53:49,600 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:53:50,978 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1378 ms
+2020-07-31 09:54:00,912 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:54:02,091 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1177 ms
+2020-07-31 09:56:30,581 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:56:31,994 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1413 ms
+2020-07-31 09:57:02,813 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:57:03,871 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1057 ms
+2020-07-31 09:57:35,064 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 09:57:36,580 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1516 ms
+2020-07-31 09:57:43,677 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 09:57:44,814 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1134 ms
+2020-07-31 10:32:50,917 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:32:53,721 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2800 ms
+2020-07-31 10:32:55,892 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:32:58,257 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2363 ms
+2020-07-31 10:34:13,988 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:34:17,408 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3420 ms
+2020-07-31 10:34:37,850 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:34:39,179 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1327 ms
+2020-07-31 10:35:21,542 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:35:23,089 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1547 ms
+2020-07-31 10:35:27,082 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:35:28,271 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1188 ms
+2020-07-31 10:37:07,498 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:37:09,177 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1664 ms
+2020-07-31 10:37:17,078 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:37:18,463 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1383 ms
+2020-07-31 10:41:32,178 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:41:33,679 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1501 ms
+2020-07-31 10:41:56,621 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:41:57,872 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1249 ms
+2020-07-31 10:42:07,586 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required int[] parameter 'listId' is not present]
+2020-07-31 10:42:33,802 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:42:35,443 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1641 ms
+2020-07-31 10:42:44,220 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:42:45,334 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1112 ms
+2020-07-31 10:42:54,361 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required int[] parameter 'listId' is not present]
+2020-07-31 10:44:01,334 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:44:02,772 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1438 ms
+2020-07-31 10:44:34,660 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:44:35,965 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1304 ms
+2020-07-31 10:55:24,769 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 10:55:26,395 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1626 ms
+2020-07-31 10:55:44,574 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 10:55:45,758 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1182 ms
+2020-07-31 12:20:40,940 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:20:43,177 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2237 ms
+2020-07-31 12:20:44,838 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:20:46,927 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2087 ms
+2020-07-31 12:22:09,162 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:22:11,069 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1907 ms
+2020-07-31 12:22:14,395 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:22:15,773 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1374 ms
+2020-07-31 12:22:23,925 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token
+ at [Source: (PushbackInputStream); line: 1, column: 1]]
+2020-07-31 12:22:29,003 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token
+ at [Source: (PushbackInputStream); line: 1, column: 1]]
+2020-07-31 12:22:57,207 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:22:58,870 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1647 ms
+2020-07-31 12:23:10,731 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:23:12,330 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1597 ms
+2020-07-31 12:23:16,739 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token
+ at [Source: (PushbackInputStream); line: 1, column: 1]]
+2020-07-31 12:23:20,824 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of java.util.ArrayList out of START_OBJECT token
+ at [Source: (PushbackInputStream); line: 1, column: 1]]
+2020-07-31 12:29:03,160 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:29:04,873 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1713 ms
+2020-07-31 12:29:17,503 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:29:18,914 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1409 ms
+2020-07-31 12:31:44,179 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:31:45,773 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1578 ms
+2020-07-31 12:31:52,463 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:31:53,740 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1275 ms
+2020-07-31 12:33:51,397 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:33:52,881 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1484 ms
+2020-07-31 12:34:00,626 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:34:01,794 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1167 ms
+2020-07-31 12:35:27,475 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:35:29,818 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2327 ms
+2020-07-31 12:35:31,552 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:35:33,864 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2311 ms
+2020-07-31 12:36:27,896 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:36:29,881 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1969 ms
+2020-07-31 12:36:35,331 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:36:36,698 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1365 ms
+2020-07-31 12:37:13,303 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:37:15,194 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1891 ms
+2020-07-31 12:37:19,256 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:37:20,573 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1315 ms
+2020-07-31 12:40:38,277 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:40:39,989 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1696 ms
+2020-07-31 12:40:53,142 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:40:54,464 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1320 ms
+2020-07-31 12:44:01,046 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 12:44:02,747 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1686 ms
+2020-07-31 12:44:10,485 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 12:44:11,646 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1160 ms
+2020-07-31 13:10:45,487 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 13:10:47,052 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1549 ms
+2020-07-31 13:11:07,409 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 13:11:09,532 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2121 ms
+2020-07-31 13:11:33,596 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of int[] out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of int[] out of START_OBJECT token
+ at [Source: (PushbackInputStream); line: 1, column: 1]]
+2020-07-31 13:21:54,833 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 13:21:56,318 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1485 ms
+2020-07-31 13:22:07,811 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 13:22:09,078 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1265 ms
+2020-07-31 13:22:56,152 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 13:22:57,675 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1523 ms
+2020-07-31 13:23:05,146 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 13:23:06,396 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1248 ms
+2020-07-31 13:26:42,772 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 13:26:44,353 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1581 ms
+2020-07-31 13:26:51,552 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 13:26:52,767 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1213 ms
+2020-07-31 13:29:31,723 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-31 13:29:33,426 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1703 ms
+2020-07-31 13:29:40,984 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-31 13:29:42,154 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1169 ms

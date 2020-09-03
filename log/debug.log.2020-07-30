@@ -1,0 +1,684 @@
+2020-07-29 00:27:06,390 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 00:27:10,489 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4057 ms
+2020-07-29 00:27:13,426 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 00:27:19,504 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 6076 ms
+2020-07-29 00:29:16,566 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 00:29:19,556 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2982 ms
+2020-07-29 00:29:23,500 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 00:29:25,528 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2023 ms
+2020-07-29 00:46:25,612 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 00:46:28,186 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2570 ms
+2020-07-29 00:46:30,222 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 00:46:32,242 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2019 ms
+2020-07-29 00:50:48,324 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 00:50:50,566 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2237 ms
+2020-07-29 00:50:52,242 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 00:50:54,186 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1943 ms
+2020-07-29 00:54:41,678 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 00:54:43,778 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2096 ms
+2020-07-29 00:55:58,837 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 00:56:00,136 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1297 ms
+2020-07-29 00:56:33,909 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-03]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-03'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 00:56:42,953 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-03]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-03'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 00:59:43,066 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 00:59:44,933 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1863 ms
+2020-07-29 00:59:55,815 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 00:59:56,923 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1107 ms
+2020-07-29 01:00:25,429 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-01]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-01'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 01:07:29,245 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 01:07:31,627 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2378 ms
+2020-07-29 01:07:33,493 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 01:07:35,702 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2208 ms
+2020-07-29 01:08:00,857 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-18]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-18'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 01:08:00,857 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-18]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-18'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 01:26:08,184 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 01:26:10,737 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2547 ms
+2020-07-29 01:26:13,054 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 01:26:15,166 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2108 ms
+2020-07-29 01:26:51,801 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 09:33:05,535 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 09:33:09,983 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4439 ms
+2020-07-29 09:33:15,702 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 09:33:20,526 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4820 ms
+2020-07-29 09:54:18,539 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 09:54:21,628 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3083 ms
+2020-07-29 09:54:34,675 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 09:54:36,656 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1976 ms
+2020-07-29 10:02:05,716 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:02:09,242 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3520 ms
+2020-07-29 10:02:11,958 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:02:15,707 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 3745 ms
+2020-07-29 10:03:23,113 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:28,159 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:28,726 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:28,920 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:29,067 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:29,238 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:29,375 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:29,576 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:30,003 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:30,176 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:30,365 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:30,525 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:30,698 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:30,866 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:31,061 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:31,338 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:31,515 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:31,686 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:31,883 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:44,299 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:03:46,476 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value []; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value ''; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 10:07:20,118 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:07:23,373 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3243 ms
+2020-07-29 10:07:31,757 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:07:34,381 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2623 ms
+2020-07-29 10:10:06,223 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:10:08,700 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2472 ms
+2020-07-29 10:11:20,260 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:11:22,207 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1941 ms
+2020-07-29 10:12:39,250 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:12:43,094 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3838 ms
+2020-07-29 10:13:14,349 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:13:16,010 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1657 ms
+2020-07-29 10:15:53,482 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:15:55,931 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2445 ms
+2020-07-29 10:16:01,722 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:16:03,368 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1644 ms
+2020-07-29 10:16:39,502 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:16:42,188 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2676 ms
+2020-07-29 10:16:46,673 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:16:48,308 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1633 ms
+2020-07-29 10:17:48,371 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:17:50,958 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2584 ms
+2020-07-29 10:17:54,087 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:17:55,708 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1619 ms
+2020-07-29 10:19:00,267 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:19:02,781 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2509 ms
+2020-07-29 10:19:11,982 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:19:13,695 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1712 ms
+2020-07-29 10:26:13,680 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:26:16,096 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2412 ms
+2020-07-29 10:29:34,448 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:29:38,212 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3754 ms
+2020-07-29 10:30:05,023 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:30:07,405 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2376 ms
+2020-07-29 10:30:10,595 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:30:12,245 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1649 ms
+2020-07-29 10:31:15,522 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:31:17,862 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2331 ms
+2020-07-29 10:31:21,027 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:31:22,595 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1566 ms
+2020-07-29 10:34:50,688 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:34:52,823 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2129 ms
+2020-07-29 10:35:07,955 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:35:09,604 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1648 ms
+2020-07-29 10:40:11,450 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 10:40:15,979 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4516 ms
+2020-07-29 10:40:19,146 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 10:40:23,219 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4071 ms
+2020-07-29 11:00:02,406 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:00:06,850 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4436 ms
+2020-07-29 11:00:09,606 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:00:13,407 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 3799 ms
+2020-07-29 11:03:18,059 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:03:20,942 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2879 ms
+2020-07-29 11:03:26,559 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:03:28,449 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1889 ms
+2020-07-29 11:06:53,532 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:06:56,136 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2597 ms
+2020-07-29 11:08:26,494 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:08:28,241 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1738 ms
+2020-07-29 11:15:14,554 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:15:18,286 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3726 ms
+2020-07-29 11:15:21,023 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:15:26,118 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5093 ms
+2020-07-29 11:15:55,764 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:15:59,399 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:16,166 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:16,367 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:16,514 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:16,694 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:16,867 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:17,049 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:17,311 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:17,493 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:17,695 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:17,835 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:18,010 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:18,187 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:18,380 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:18,589 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:18,804 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:19,048 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:19,413 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:19,684 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:19,850 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:20,038 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:16:24,094 WARN[org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:197] - Resolved [org.springframework.validation.BindException: org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'staff' on field 'begindate': rejected value [2020-07-05]; codes [typeMismatch.staff.begindate,typeMismatch.begindate,typeMismatch.java.util.Date,typeMismatch]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [staff.begindate,begindate]; arguments []; default message [begindate]]; default message [Failed to convert property value of type 'java.lang.String' to required type 'java.util.Date' for property 'begindate'; nested exception is org.springframework.core.convert.ConversionFailedException: Failed to convert from type [java.lang.String] to type [java.util.Date] for value '2020-07-05'; nested exception is java.lang.IllegalArgumentException]]
+2020-07-29 11:32:02,291 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:32:07,944 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 5638 ms
+2020-07-29 11:32:10,378 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:32:15,940 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5559 ms
+2020-07-29 11:36:51,261 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:36:55,409 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4134 ms
+2020-07-29 11:36:58,280 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:37:02,748 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4464 ms
+2020-07-29 11:38:53,626 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:38:57,698 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4068 ms
+2020-07-29 11:39:01,166 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:39:06,368 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5197 ms
+2020-07-29 11:42:21,906 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:42:25,194 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3284 ms
+2020-07-29 11:46:12,613 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:46:16,238 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3619 ms
+2020-07-29 11:46:18,938 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:46:22,714 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 3774 ms
+2020-07-29 11:49:26,512 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:49:29,341 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2821 ms
+2020-07-29 11:50:00,852 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:50:03,493 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2638 ms
+2020-07-29 11:50:26,198 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:50:28,636 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2431 ms
+2020-07-29 11:55:25,709 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 11:55:28,350 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2638 ms
+2020-07-29 11:55:48,847 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 11:55:51,052 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2201 ms
+2020-07-29 12:00:08,195 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:00:10,795 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2598 ms
+2020-07-29 12:00:17,027 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:00:18,755 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1727 ms
+2020-07-29 12:00:44,749 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:00:47,168 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2413 ms
+2020-07-29 12:00:56,898 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:00:58,994 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2091 ms
+2020-07-29 12:07:36,655 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:07:38,922 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2264 ms
+2020-07-29 12:07:42,797 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:07:45,357 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2555 ms
+2020-07-29 12:10:06,303 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:10:08,775 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2468 ms
+2020-07-29 12:10:17,215 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:10:18,940 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1723 ms
+2020-07-29 12:13:07,067 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:13:10,724 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3650 ms
+2020-07-29 12:13:13,051 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:13:17,848 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4793 ms
+2020-07-29 12:16:55,707 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:16:58,230 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2520 ms
+2020-07-29 12:17:03,095 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:17:05,364 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2267 ms
+2020-07-29 12:18:32,113 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:18:35,412 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3286 ms
+2020-07-29 12:18:41,009 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:18:43,364 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2353 ms
+2020-07-29 12:20:25,194 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:20:27,529 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2331 ms
+2020-07-29 12:21:57,275 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:21:59,296 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2019 ms
+2020-07-29 12:29:47,346 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:29:49,619 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2268 ms
+2020-07-29 12:29:54,282 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:29:56,028 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1745 ms
+2020-07-29 12:36:29,945 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:36:32,244 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2295 ms
+2020-07-29 12:36:58,947 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:37:01,287 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2338 ms
+2020-07-29 12:38:21,904 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:38:25,055 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3144 ms
+2020-07-29 12:38:43,840 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:38:45,774 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1933 ms
+2020-07-29 12:42:35,710 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:42:37,988 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2274 ms
+2020-07-29 12:42:42,330 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 12:42:44,327 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1995 ms
+2020-07-29 12:43:10,696 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 12:43:12,795 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2095 ms
+2020-07-29 15:09:50,546 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:09:55,307 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4750 ms
+2020-07-29 15:09:57,803 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:10:03,486 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5674 ms
+2020-07-29 15:12:19,381 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:12:23,511 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4118 ms
+2020-07-29 15:14:58,955 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:15:00,988 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2030 ms
+2020-07-29 15:31:18,426 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:31:23,412 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4970 ms
+2020-07-29 15:31:26,460 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:31:32,231 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5767 ms
+2020-07-29 15:41:54,747 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:41:58,285 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3527 ms
+2020-07-29 15:42:24,889 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:42:27,489 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2596 ms
+2020-07-29 15:45:22,837 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:45:25,778 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2936 ms
+2020-07-29 15:45:39,655 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:45:42,088 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2430 ms
+2020-07-29 15:49:03,553 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:49:07,885 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4323 ms
+2020-07-29 15:49:10,527 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:49:16,094 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5564 ms
+2020-07-29 15:56:42,449 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:56:46,673 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4219 ms
+2020-07-29 15:56:47,380 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:56:49,994 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2606 ms
+2020-07-29 15:58:14,599 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:58:17,272 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2667 ms
+2020-07-29 15:58:33,392 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:58:36,201 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2806 ms
+2020-07-29 15:59:16,269 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 15:59:19,127 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2854 ms
+2020-07-29 15:59:25,148 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 15:59:27,386 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2232 ms
+2020-07-29 16:00:25,474 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:00:28,102 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2624 ms
+2020-07-29 16:00:37,370 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:00:39,882 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2508 ms
+2020-07-29 16:04:04,100 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:04:09,014 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4908 ms
+2020-07-29 16:04:11,904 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:04:18,130 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 6224 ms
+2020-07-29 16:09:39,195 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:09:42,633 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3427 ms
+2020-07-29 16:11:13,022 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:11:18,480 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5453 ms
+2020-07-29 16:16:23,040 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:16:25,959 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2914 ms
+2020-07-29 16:16:36,300 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:16:38,567 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2264 ms
+2020-07-29 16:21:52,320 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:21:56,818 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4493 ms
+2020-07-29 16:22:22,325 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:22:28,388 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 6058 ms
+2020-07-29 16:26:57,548 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:27:00,288 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2735 ms
+2020-07-29 16:27:19,738 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:27:22,188 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2443 ms
+2020-07-29 16:36:01,885 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:36:04,268 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2380 ms
+2020-07-29 16:36:25,535 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:36:27,978 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2441 ms
+2020-07-29 16:55:36,587 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 16:55:38,931 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2344 ms
+2020-07-29 16:55:42,177 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 16:55:45,939 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 3759 ms
+2020-07-29 17:13:52,777 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 17:13:54,735 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1958 ms
+2020-07-29 17:15:26,742 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 17:15:28,787 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2020 ms
+2020-07-29 20:57:28,467 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 20:57:33,221 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4742 ms
+2020-07-29 20:57:36,195 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 20:57:40,854 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4658 ms
+2020-07-29 21:04:59,178 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:05:03,114 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3930 ms
+2020-07-29 21:05:05,804 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:05:10,644 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4837 ms
+2020-07-29 21:08:17,788 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:08:20,547 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2753 ms
+2020-07-29 21:08:26,895 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:08:29,249 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2351 ms
+2020-07-29 21:12:22,268 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:12:26,802 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4525 ms
+2020-07-29 21:12:29,735 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:12:35,073 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5333 ms
+2020-07-29 21:13:54,154 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:13:56,808 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2648 ms
+2020-07-29 21:14:01,877 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:14:03,836 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1957 ms
+2020-07-29 21:20:31,727 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:20:35,765 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4019 ms
+2020-07-29 21:20:50,966 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:20:53,498 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2530 ms
+2020-07-29 21:23:05,210 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:23:08,221 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2996 ms
+2020-07-29 21:23:13,351 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:23:15,387 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2033 ms
+2020-07-29 21:31:52,450 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 21:31:54,794 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2340 ms
+2020-07-29 21:31:59,691 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 21:32:01,670 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1977 ms
+2020-07-29 22:40:37,251 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 22:40:41,259 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3995 ms
+2020-07-29 22:40:43,922 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 22:40:49,507 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5583 ms
+2020-07-29 22:49:49,814 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 22:49:53,456 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3633 ms
+2020-07-29 22:49:56,321 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 22:50:02,027 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5702 ms
+2020-07-29 23:12:23,365 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 23:12:28,024 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4651 ms
+2020-07-29 23:12:30,954 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 23:12:36,350 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5388 ms
+2020-07-29 23:28:05,021 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 23:28:08,382 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3353 ms
+2020-07-29 23:28:15,369 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 23:28:17,762 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2389 ms
+2020-07-29 23:42:46,408 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 23:42:49,995 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3567 ms
+2020-07-29 23:43:01,061 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 23:43:03,294 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2231 ms
+2020-07-29 23:48:19,360 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-29 23:48:24,183 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4814 ms
+2020-07-29 23:48:27,241 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-29 23:48:32,539 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5296 ms
+2020-07-30 00:01:36,328 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:01:39,759 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3417 ms
+2020-07-30 00:02:07,852 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:02:10,565 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2706 ms
+2020-07-30 00:03:38,401 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:03:41,261 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2853 ms
+2020-07-30 00:04:17,716 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:04:20,298 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2580 ms
+2020-07-30 00:06:17,835 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:06:20,634 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2794 ms
+2020-07-30 00:06:53,979 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:06:56,610 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2628 ms
+2020-07-30 00:09:21,714 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:09:24,222 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2500 ms
+2020-07-30 00:09:37,733 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:09:39,778 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2040 ms
+2020-07-30 00:10:16,858 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:10:19,559 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2695 ms
+2020-07-30 00:10:26,122 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:10:28,485 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2360 ms
+2020-07-30 00:11:42,053 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:11:44,760 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2702 ms
+2020-07-30 00:11:49,745 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:11:52,018 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2271 ms
+2020-07-30 00:15:41,910 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:15:45,127 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3211 ms
+2020-07-30 00:15:51,597 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 00:15:53,966 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2367 ms
+2020-07-30 00:16:59,887 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 00:17:02,539 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2642 ms
+2020-07-30 09:28:57,016 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 09:29:10,858 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 13802 ms
+2020-07-30 09:29:14,316 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 09:29:19,241 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4923 ms
+2020-07-30 09:34:10,491 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 09:34:13,530 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3035 ms
+2020-07-30 09:34:30,862 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 09:34:36,986 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 6121 ms
+2020-07-30 10:26:06,911 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 10:26:09,997 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3076 ms
+2020-07-30 10:26:26,205 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 10:26:28,854 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2641 ms
+2020-07-30 10:28:08,526 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 10:28:11,744 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3211 ms
+2020-07-30 10:28:19,297 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 10:28:22,270 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2969 ms
+2020-07-30 10:48:16,142 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 10:48:21,734 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 5587 ms
+2020-07-30 10:48:25,350 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 10:48:31,033 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5682 ms
+2020-07-30 10:56:38,226 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 10:56:43,383 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 5150 ms
+2020-07-30 10:56:47,167 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 10:56:52,631 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5462 ms
+2020-07-30 10:59:18,328 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 10:59:22,979 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4644 ms
+2020-07-30 11:00:29,108 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 11:00:31,993 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2883 ms
+2020-07-30 11:01:31,412 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 11:01:34,847 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3427 ms
+2020-07-30 11:01:38,763 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 11:01:41,095 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2330 ms
+2020-07-30 11:46:54,937 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 11:46:59,844 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4893 ms
+2020-07-30 11:47:03,297 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 11:47:09,053 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 5753 ms
+2020-07-30 11:53:39,790 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 11:53:44,911 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 5117 ms
+2020-07-30 14:48:06,297 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 14:48:08,703 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2390 ms
+2020-07-30 14:48:10,696 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 14:48:13,522 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2826 ms
+2020-07-30 14:49:06,128 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 14:49:07,909 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1781 ms
+2020-07-30 14:49:13,068 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 14:49:14,257 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1186 ms
+2020-07-30 14:51:49,158 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 14:51:50,877 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1719 ms
+2020-07-30 14:52:13,903 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 14:52:15,026 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1120 ms
+2020-07-30 15:36:11,356 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 15:36:16,229 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4865 ms
+2020-07-30 15:36:19,851 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 15:36:22,924 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 3005 ms
+2020-07-30 15:38:24,205 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 15:38:28,502 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4290 ms
+2020-07-30 15:39:52,118 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 15:39:56,173 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 4044 ms
+2020-07-30 15:40:47,663 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 15:40:49,722 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2055 ms
+2020-07-30 15:50:20,511 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 15:50:23,949 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3429 ms
+2020-07-30 15:52:52,649 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 15:52:55,179 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2528 ms
+2020-07-30 15:55:46,736 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 15:55:49,822 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3081 ms
+2020-07-30 15:56:08,810 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 15:56:12,841 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 4029 ms
+2020-07-30 15:59:22,170 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 15:59:25,869 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3694 ms
+2020-07-30 15:59:48,430 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 15:59:50,749 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2317 ms
+2020-07-30 16:03:13,113 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 16:03:15,883 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2764 ms
+2020-07-30 16:04:34,247 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 16:04:35,356 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1107 ms
+2020-07-30 16:05:44,112 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 16:05:45,539 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1411 ms
+2020-07-30 16:05:52,523 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 16:05:53,603 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1078 ms
+2020-07-30 16:51:28,449 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 16:51:32,294 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 3838 ms
+2020-07-30 16:51:34,103 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 16:51:36,277 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2171 ms
+2020-07-30 16:52:46,779 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 16:52:48,852 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2070 ms
+2020-07-30 16:52:58,171 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 16:52:59,382 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1209 ms
+2020-07-30 16:54:02,813 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 16:54:04,608 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1791 ms
+2020-07-30 16:54:09,459 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 16:54:10,892 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1431 ms
+2020-07-30 17:06:15,547 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:06:17,213 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1663 ms
+2020-07-30 17:06:33,569 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:06:35,867 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2298 ms
+2020-07-30 17:06:37,980 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:06:40,230 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2248 ms
+2020-07-30 17:10:42,561 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:10:44,749 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2183 ms
+2020-07-30 17:11:03,322 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:11:04,641 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1317 ms
+2020-07-30 17:13:25,472 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:13:27,214 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1726 ms
+2020-07-30 17:13:47,660 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:13:48,818 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1157 ms
+2020-07-30 17:50:10,978 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:50:13,437 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2441 ms
+2020-07-30 17:50:25,330 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:50:27,625 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 2290 ms
+2020-07-30 17:51:13,850 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:51:15,426 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1576 ms
+2020-07-30 17:51:19,207 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:51:20,383 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1172 ms
+2020-07-30 17:56:15,532 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:56:17,078 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1545 ms
+2020-07-30 17:56:28,881 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:56:30,067 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1184 ms
+2020-07-30 17:59:20,939 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 17:59:22,393 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1439 ms
+2020-07-30 17:59:25,935 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 17:59:27,039 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1102 ms
+2020-07-30 18:00:25,317 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:00:26,965 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1633 ms
+2020-07-30 18:00:31,325 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:00:32,595 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1268 ms
+2020-07-30 18:01:25,112 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:01:26,722 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1594 ms
+2020-07-30 18:01:30,505 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:01:31,613 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1106 ms
+2020-07-30 18:05:38,919 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:05:40,331 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1412 ms
+2020-07-30 18:05:52,769 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:05:53,891 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1120 ms
+2020-07-30 18:07:36,646 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:07:38,084 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1438 ms
+2020-07-30 18:08:22,486 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:08:23,633 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1145 ms
+2020-07-30 18:09:24,195 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:09:25,722 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1511 ms
+2020-07-30 18:09:31,296 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:09:32,566 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1268 ms
+2020-07-30 18:13:07,269 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:13:08,744 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1459 ms
+2020-07-30 18:13:52,736 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:13:53,784 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1046 ms
+2020-07-30 18:15:23,343 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:15:24,727 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1384 ms
+2020-07-30 18:15:30,512 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:15:31,612 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1099 ms
+2020-07-30 18:15:31,935 ERROR[org.springframework.web.servlet.tags.form.ButtonTag:86] - Neither BindingResult nor plain target object for bean name '' available as request attribute
+java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name '' available as request attribute
+	at org.springframework.web.servlet.support.BindStatus.<init>(BindStatus.java:153)
+	at org.springframework.web.servlet.tags.form.AbstractDataBoundFormElementTag.getBindStatus(AbstractDataBoundFormElementTag.java:177)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.resolveCssClass(AbstractHtmlElementTag.java:499)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.writeOptionalAttributes(AbstractHtmlElementTag.java:469)
+	at org.springframework.web.servlet.tags.form.AbstractHtmlElementTag.writeDefaultAttributes(AbstractHtmlElementTag.java:460)
+	at org.springframework.web.servlet.tags.form.ButtonTag.writeTagContent(ButtonTag.java:143)
+	at org.springframework.web.servlet.tags.form.AbstractFormTag.doStartTagInternal(AbstractFormTag.java:86)
+	at org.springframework.web.servlet.tags.RequestContextAwareTag.doStartTag(RequestContextAwareTag.java:83)
+	at org.apache.jsp.WEB_002dINF.jsp.staffMain_jsp._jspx_meth_form_005fbutton_005f0(staffMain_jsp.java:549)
+	at org.apache.jsp.WEB_002dINF.jsp.staffMain_jsp._jspService(staffMain_jsp.java:237)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:476)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:713)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:462)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:387)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:315)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:170)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1370)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1116)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1055)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:543)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:615)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:818)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1627)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-07-30 18:16:44,280 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:16:45,845 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1565 ms
+2020-07-30 18:16:54,196 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:16:55,389 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1190 ms
+2020-07-30 18:17:54,363 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:17:55,845 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1466 ms
+2020-07-30 18:18:12,025 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:18:13,382 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1355 ms
+2020-07-30 18:27:57,095 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:27:58,454 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1359 ms
+2020-07-30 18:30:20,982 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:30:22,639 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1657 ms
+2020-07-30 18:30:32,762 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:30:33,904 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1140 ms
+2020-07-30 18:34:50,848 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:34:52,286 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1438 ms
+2020-07-30 18:35:06,181 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:35:07,264 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1081 ms
+2020-07-30 18:37:14,519 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 18:37:15,910 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 1391 ms
+2020-07-30 18:37:20,721 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 18:37:21,778 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 1055 ms
+2020-07-30 21:25:53,256 INFO[org.springframework.web.context.ContextLoader:270] - Root WebApplicationContext: initialization started
+2020-07-30 21:25:55,607 INFO[org.springframework.web.context.ContextLoader:306] - Root WebApplicationContext initialized in 2341 ms
+2020-07-30 21:25:58,133 INFO[org.springframework.web.servlet.DispatcherServlet:524] - Initializing Servlet 'springmvc'
+2020-07-30 21:26:01,394 INFO[org.springframework.web.servlet.DispatcherServlet:546] - Completed initialization in 3257 ms
